@@ -1,0 +1,2 @@
+body { font-family: Arial; padding: 20px; }
+#product-list div, #cart div { margin-bottom: 10px; border: 1px solid #ccc; padding: 10px; }
